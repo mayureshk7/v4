@@ -1,8 +1,8 @@
 ---
-title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+title: 'Hi, my name is '
+name: 'Mayuresh Khendkar'
+subtitle: 'I am a Software Developer.'
 contactText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional, high-quality websites and applications.
+Currently pursuing Masters Degree in Computer Science from Northeastern University Boston, MA.

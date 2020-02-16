@@ -8,15 +8,15 @@ module.exports = {
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
+  name: 'Mayuresh Khendkar',
   location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
+  email: 'mayuresh300894@gmail.com',
   github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  twitterHandle: '@mayureshk7',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/mayureshk7',
     },
     {
       name: 'Linkedin',
