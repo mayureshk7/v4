@@ -1,14 +1,15 @@
 ---
-date: '2019-07-15'
+date: '3'
 title: 'SmartLens'
+cover: './smartlens.png'
 github: 'https://github.com/mayureshk7'
 external: 'https://github.com/mayureshk7'
 tech:
-  - C/C++
   - Java
+  - C/C++
   - Android
   - GitHub API
-showInProjects: false
+showInProjects: true
 ---
 
 SmartLens is an Android application based on Optical Character Recognition (OCR) for detection and translation of handwritten and typed text from an image.
