@@ -19,7 +19,7 @@ module.exports = {
         name: 'MayureshKhendkar',
         short_name: 'MayureshKhendkar',
         start_url: '/',
-        background_color: config.darkNavyColor,
+        background_image: config.darkNavyColor,
         theme_color: config.navyColor,
         display: 'minimal-ui',
         icon: 'src/images/logo.png',

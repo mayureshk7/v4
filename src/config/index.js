@@ -1,17 +1,17 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Mayuresh Khendkar | Software Engineer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'Mayuresh Khendkar is a software engineer based in Boston, MA.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Mayuresh Khendkar, mayureshk7, software engineer, C/C++ engineer, web developer, software developer, northeastern',
+  siteUrl: 'https://mayureshkhendkar.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Mayuresh Khendkar',
   location: 'Boston, MA',
   email: 'mayuresh300894@gmail.com',
-  github: 'https://github.com/bchiang7',
+  github: 'https://github.com/mayureshk7',
   twitterHandle: '@mayureshk7',
   socialMedia: [
     {
@@ -20,19 +20,15 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://www.linkedin.com/in/mayuresh-khendkar-7a22b5119/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/mayuresh7',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/mayureshk7',
     },
   ],
 
