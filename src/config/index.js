@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/mayuresh-khendkar-7a22b5119/',
+      url: 'https://www.linkedin.com/in/mayuresh-khendkar/',
     },
     {
       name: 'Instagram',
